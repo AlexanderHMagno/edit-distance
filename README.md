@@ -11,7 +11,11 @@ You have the following three operations permitted on a word:
 
 ## Explanation
 
-This can be solved using memoization as part of a Dynamic programming solution. I am using a 2d Array to keep the information of previous solved subproblems,
-that will help to find a final solution. 
+This can be solved using memoization as part of a Dynamic programming solution. I am using a 2d Array to keep the information of previous solved subproblems that will help me to find a final solution:
+
+
+You can check the code here: [code](./solution.js)
+
+![solution](./solution.png)
 
 
